@@ -1,0 +1,6 @@
+[mqtt]
+host=localhost
+port=1883
+id=example-mqtt-id
+status_channel=computer/pc-name/status
+last_active_channel=computer/pc-name/last_active
