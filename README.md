@@ -37,7 +37,7 @@ You can compile this into an executablea so it doesn't require Python to be inst
 
 I used PyInstaller with this command (you  can user other alternatives as well)
 ```
-pyinstaller ./blah.py --onefile --noconsol
+pyinstaller ./MqttComputerTracker.py --onefile --noconsol
 ```
 `--onefile` generates just the exe
 
